@@ -1,8 +1,8 @@
 <h1 align="center"> 
-Olá, Seja Bem vindo ao GitHub da LATIM! 🌟
+      Olá, Seja Bem vindo ao GitHub da LATIM! 🌟
 </h1>
 
-A Liga LATI é uma comunidade dedicada ao aprendizado de tecnologia e ao crescimento profissional. Nosso objetivo é proporcionar oportunidades de aprendizado e desenvolvimento para todos os membros, independentemente do nível de experiência.
+A Liga LATIM é uma comunidade dedicada ao aprendizado de tecnologia e ao crescimento profissional. Nosso objetivo é proporcionar oportunidades de aprendizado e desenvolvimento para todos os membros, independentemente do nível de experiência.
 
 ## Nossos Objetivos 🚀
 
